@@ -1,0 +1,18 @@
+{
+  "name": "ensicoin-js",
+  "version": "1.0.0",
+  "description": "yet another ensicoin node (in javascript)",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "#ensicoin",
+    "#cryptocurrency",
+    "#nodejs",
+    "#js",
+    "#node"
+  ],
+  "author": "valderane potong aka valdyvia78",
+  "license": "ISC"
+}
